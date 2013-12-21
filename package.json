@@ -1,0 +1,27 @@
+{
+  "name": "background-image",
+  "version": "0.0.0",
+  "description": "Set background image for given element",
+  "main": "index.js",
+  "scripts": {
+    "test": "fox"
+  },
+  "dependencies": {
+    "new-format": "0.0.x",
+    "select-dom": "0.0.0"
+  },
+  "devDependencies": {
+    "prova": "*"
+  },
+  "keywords": [
+    "dom",
+    "background",
+    "image"
+  ],
+  "repository": {
+    "url": "git@github.com:azer/background-image.git",
+    "type": "git"
+  },
+  "author": "Azer Koçulu <azer@kodfabrik.com>",
+  "license": "BSD"
+}
