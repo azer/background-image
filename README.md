@@ -1,6 +1,6 @@
 ## background-image
 
-Set background image for given element
+Set background image for given element. Example: [http://requirebin.com/?gist=8075487](http://requirebin.com/?gist=8075487)
 
 ## Install
 
